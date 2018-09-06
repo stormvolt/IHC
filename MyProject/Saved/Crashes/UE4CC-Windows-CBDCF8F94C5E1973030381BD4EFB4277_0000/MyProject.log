@@ -1,0 +1,1598 @@
+﻿Log file open, 09/05/18 20:54:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.131170
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.318s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz, GPU: Intel(R) HD Graphics 4400
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.06-01.54.03:165][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.06-01.54.03:165][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.06-01.54.03:213][  0]LogHAL: Display: Platform has ~ 8 GB [8454623232 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.06-01.54.03:213][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.06-01.54.03:213][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.06-01.54.03:215][  0]LogInit: Computer: USER-PC
+[2018.09.06-01.54.03:215][  0]LogInit: User: User
+[2018.09.06-01.54.03:215][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.09.06-01.54.03:215][  0]LogInit: High frequency timer resolution =3.604960 MHz
+[2018.09.06-01.54.03:216][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.09.06-01.54.03:216][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.06-01.54.03:216][  0]LogMemory: Process Physical Memory: 100.88 MB used, 100.88 MB peak
+[2018.09.06-01.54.03:216][  0]LogMemory: Process Virtual Memory: 86.55 MB used, 86.55 MB peak
+[2018.09.06-01.54.03:216][  0]LogMemory: Physical Memory: 4259.88 MB used,  3803.08 MB free, 8062.96 MB total
+[2018.09.06-01.54.03:216][  0]LogMemory: Virtual Memory: 469.39 MB used,  3803.08 MB free, 8388608.00 MB total
+[2018.09.06-01.54.03:277][  0]LogInit: Using OS detected language (es-PE).
+[2018.09.06-01.54.03:277][  0]LogInit: Using OS detected locale (es-PE).
+[2018.09.06-01.54.03:277][  0]LogTextLocalizationManager: No specific localization for 'es-PE' exists, so the 'es' localization will be used.
+[2018.09.06-01.54.03:584][  0]LogStreaming: Display: Took  0.308s to InitEngineTextLocalization.
+[2018.09.06-01.54.03:585][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.09.06-01.54.03:585][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.09.06-01.54.03:585][  0]LogInit: Setting process to DPI aware
+[2018.09.06-01.54.03:605][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.06-01.54.03:605][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.06-01.54.03:953][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.06-01.54.03:953][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.06-01.54.03:958][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4400' (Feature Level 11_0)
+[2018.09.06-01.54.03:958][  0]LogD3D11RHI:       64/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.09.06-01.54.03:958][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.06-01.54.03:963][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.06-01.54.03:963][  0]LogD3D11RHI:     GPU DeviceId: 0x41e (for the marketing name, search the web for "GPU Device Id")
+[2018.09.06-01.54.03:963][  0]LogWindows: EnumDisplayDevices:
+[2018.09.06-01.54.03:963][  0]LogWindows:    0. 'Intel(R) HD Graphics 4400' (P:1 D:1)
+[2018.09.06-01.54.03:963][  0]LogWindows:    1. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2018.09.06-01.54.03:963][  0]LogWindows:    2. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2018.09.06-01.54.03:963][  0]LogWindows:    3. 'RDPDD Chained DD' (P:0 D:0)
+[2018.09.06-01.54.03:963][  0]LogWindows:    4. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.09.06-01.54.03:964][  0]LogWindows:    5. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.09.06-01.54.03:964][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2018.09.06-01.54.03:964][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4400
+[2018.09.06-01.54.03:964][  0]LogD3D11RHI:   Driver Version: 10.18.10.3262 (internal:10.18.10.3262, unified:10.18.10.3262)
+[2018.09.06-01.54.03:964][  0]LogD3D11RHI:      Driver Date: 7-31-2013
+[2018.09.06-01.54.03:964][  0]LogRHI: Texture pool is 616 MB (70% of 880 MB)
+[2018.09.06-01.54.03:969][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.06-01.54.03:976][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.09.06-01.54.03:976][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Intermediate/Shaders/WorkingDirectory/4200/).
+[2018.09.06-01.54.03:976][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/238EFAEE40F8287338241FB167B68FE1/'.
+[2018.09.06-01.54.04:196][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.06-01.54.04:208][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.06-01.54.04:221][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.06-01.54.04:234][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.06-01.54.04:248][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.06-01.54.04:260][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.06-01.54.04:273][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.06-01.54.04:286][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.06-01.54.04:292][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.06-01.54.04:376][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.06-01.54.04:434][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.06-01.54.04:434][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.06-01.54.04:459][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.06-01.54.04:459][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.06-01.54.04:472][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.06-01.54.04:484][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.06-01.54.04:497][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.06-01.54.04:511][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.06-01.54.04:520][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.06-01.54.04:521][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.06-01.54.04:570][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.06-01.54.04:570][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.06-01.54.04:570][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.06-01.54.05:406][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.06-01.54.05:479][  0]LogDerivedDataCache: Loaded boot cache 0.07s 86MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.06-01.54.05:479][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.06-01.54.05:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.06-01.54.05:479][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.06-01.54.05:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.06-01.54.05:479][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.06-01.54.05:492][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.06-01.54.05:503][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.06-01.54.05:503][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.06-01.54.05:503][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.06-01.54.05:521][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.06-01.54.05:522][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.06-01.54.05:523][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.06-01.54.05:632][  0]LogAssetRegistry: FAssetRegistry took 0.0237 seconds to start up
+[2018.09.06-01.54.05:908][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.06-01.54.06:040][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.06-01.54.06:043][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.06-01.54.06:043][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.06-01.54.06:043][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.06-01.54.06:043][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.06-01.54.06:056][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2018.09.06-01.54.06:793][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.167622 seconds
+[2018.09.06-01.54.06:799][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.06-01.54.06:799][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.06-01.54.06:799][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.06-01.54.08:083][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.06-01.54.08:095][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.06-01.54.08:255][  0]SourceControl: El control de código fuente está desactivado
+[2018.09.06-01.54.08:255][  0]SourceControl: El control de código fuente está desactivado
+[2018.09.06-01.54.08:256][  0]SourceControl: El control de código fuente está desactivado
+[2018.09.06-01.54.08:257][  0]SourceControl: El control de código fuente está desactivado
+[2018.09.06-01.54.08:407][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.06-01.54.08:457][  0]LogOcInput: OculusInput pre-init called
+[2018.09.06-01.54.08:524][  0]LogEngine: Initializing Engine...
+[2018.09.06-01.54.08:524][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.06-01.54.08:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.06-01.54.08:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.06-01.54.08:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.06-01.54.08:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.06-01.54.08:800][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.06-01.54.08:820][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.06-01.54.08:855][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-01.54.08:873][  0]LogInit: FAudioDevice initialized.
+[2018.09.06-01.54.08:873][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.06-01.54.09:036][  0]LogDerivedDataCache: Saved boot cache 0.16s 86MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.06-01.54.09:045][  0]LogInit: Texture streaming: Enabled
+[2018.09.06-01.54.09:064][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.06-01.54.09:074][  0]LogInit: Transaction tracking system initialized
+[2018.09.06-01.54.09:094][  0]BlueprintLog: New page: Cargar el editor
+[2018.09.06-01.54.09:157][  0]LocalizationService: Localization service is disabled
+[2018.09.06-01.54.09:656][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.06-01.54.09:656][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.06-01.54.09:656][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.06-01.54.09:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.06-01.54.09:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.06-01.54.09:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.06-01.54.09:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.06-01.54.09:782][  0]LogFileCache: Scanning file cache for directory 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/' took 0.01s
+[2018.09.06-01.54.09:782][  0]SourceControl: El control de código fuente está desactivado
+[2018.09.06-01.54.09:782][  0]Cmd: MAP LOAD FILE="E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.06-01.54.09:798][  0]LightingResults: New page: Diseñar la iluminación
+[2018.09.06-01.54.09:800][  0]MapCheck: New page: Revisión del mapa
+[2018.09.06-01.54.09:800][  0]LightingResults: New page: Diseñar la iluminación
+[2018.09.06-01.54.10:622][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-01.54.10:648][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.06-01.54.10:710][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.06-01.54.10:803][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.004ms to complete.
+[2018.09.06-01.54.10:803][  0]LogFileHelpers: Loading map 'StartupMap' took 1.022
+[2018.09.06-01.54.11:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-01.54.11:600][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-01.54.11:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-01.54.11:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-01.54.11:690][  0]LogCollectionManager: Loaded 0 collections in 0.004001 seconds
+[2018.09.06-01.54.11:807][  0]LogFileCache: Scanning file cache for directory 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Collections/' took 0.01s
+[2018.09.06-01.54.11:807][  0]LogFileCache: Scanning file cache for directory 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/Developers/User/Collections/' took 0.01s
+[2018.09.06-01.54.11:807][  0]LogFileCache: Scanning file cache for directory 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/Collections/' took 0.01s
+[2018.09.06-01.54.11:807][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.06-01.54.11:859][  0]LogContentBrowser: Native class hierarchy populated in 0.0365 seconds. Added 2572 classes and 603 folders.
+[2018.09.06-01.54.11:915][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.09.06-01.54.12:590][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.09.06-01.54.12:634][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.09.06-01.54.12:901][  0]LogSlate: Took 0.001764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.06-01.54.12:909][  0]LogSlate: Took 0.001708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.06-01.54.12:989][  0]LogSlate: Took 0.048406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.06-01.54.13:505][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 26 NumSamples 1 (Frame:1).
+[2018.09.06-01.54.13:980][  0]LogSlate: Took 0.027950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.06-01.54.14:129][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.06-01.54.14:129][  0]LogLoad: (Engine Initialization) Total time: 12.87 seconds
+[2018.09.06-01.54.14:129][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.06-01.54.14:546][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.06-01.54.14:649][  1]LogAssetRegistry: Asset discovery search completed in 9.0378 seconds
+[2018.09.06-01.54.14:651][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.06-01.54.14:651][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.09.06-01.54.19:760][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.54.22:502][193]LogSlate: Took 0.000778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.06-01.54.22:564][193]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Universidad/octavo semestre/interacción humano computador/IHC/try.fbx)
+[2018.09.06-01.54.22:786][193]LogFbx: Loading FBX Scene from E:/Universidad/octavo semestre/interacción humano computador/IHC/try.fbx
+[2018.09.06-01.54.22:821][193]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.06-01.54.32:270][193]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2018.09.06-01.54.32:328][193]LogFbx: =================================================
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node START [Plane.002] 
+[2018.09.06-01.54.32:328][193]LogFbx: 	Total Deformer Count 917270912.
+[2018.09.06-01.54.32:328][193]LogFbx: 	Attribute (Plane.003) Type (4).
+[2018.09.06-01.54.32:328][193]LogFbx: 		[Node Attribute Child 1] Plane.002 (Type Mesh).
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node END [Plane.002]
+[2018.09.06-01.54.32:328][193]LogFbx: =================================================
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node START [Plane.001] 
+[2018.09.06-01.54.32:328][193]LogFbx: 	Total Deformer Count 917270912.
+[2018.09.06-01.54.32:328][193]LogFbx: 	Attribute (Plane.001) Type (4).
+[2018.09.06-01.54.32:328][193]LogFbx: 		[Node Attribute Child 1] Plane.001 (Type Mesh).
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node END [Plane.001]
+[2018.09.06-01.54.32:328][193]LogFbx: =================================================
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node START [Plane] 
+[2018.09.06-01.54.32:328][193]LogFbx: 	Total Deformer Count 917290816.
+[2018.09.06-01.54.32:328][193]LogFbx: 	Attribute (Plane.004) Type (4).
+[2018.09.06-01.54.32:328][193]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node END [Plane]
+[2018.09.06-01.54.32:328][193]LogFbx: =================================================
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node START [Plane.002] 
+[2018.09.06-01.54.32:328][193]LogFbx: 	Total Deformer Count 917271680.
+[2018.09.06-01.54.32:328][193]LogFbx: 	Attribute (Plane.003) Type (4).
+[2018.09.06-01.54.32:328][193]LogFbx: 		[Node Attribute Child 1] Plane.002 (Type Mesh).
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node END [Plane.002]
+[2018.09.06-01.54.32:328][193]LogFbx: =================================================
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node START [Plane.001] 
+[2018.09.06-01.54.32:328][193]LogFbx: 	Total Deformer Count 917271680.
+[2018.09.06-01.54.32:328][193]LogFbx: 	Attribute (Plane.001) Type (4).
+[2018.09.06-01.54.32:328][193]LogFbx: 		[Node Attribute Child 1] Plane.001 (Type Mesh).
+[2018.09.06-01.54.32:328][193]LogFbx: Dumping Node END [Plane.001]
+[2018.09.06-01.54.32:328][193]LogFbx: =================================================
+[2018.09.06-01.54.32:329][193]LogFbx: Dumping Node START [Plane] 
+[2018.09.06-01.54.32:329][193]LogFbx: 	Total Deformer Count 917290816.
+[2018.09.06-01.54.32:329][193]LogFbx: 	Attribute (Plane.004) Type (4).
+[2018.09.06-01.54.32:329][193]LogFbx: 		[Node Attribute Child 1] Plane (Type Mesh).
+[2018.09.06-01.54.32:329][193]LogFbx: Dumping Node END [Plane]
+[2018.09.06-01.54.32:515][193]LogMaterial: Warning: Material /Game/Material_003.Material_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.09.06-01.54.32:525][193]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2018.09.06-01.54.32:695][193]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2018.09.06-01.54.32:721][193]LogFbx: Triangulating skeletal mesh Plane.002
+[2018.09.06-01.54.32:864][193]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.06-01.54.32:864][193]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.06-01.54.32:864][193]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.06-01.54.32:864][193]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.09.06-01.54.33:210][193]LogSkeletalMesh: Section 0: 8385 vertices, 1 active bones
+[2018.09.06-01.54.33:211][193]LogSkeletalMesh: Section 0: Material=0, 16384 triangles
+[2018.09.06-01.54.33:212][193]LogSkeletalMesh: Building Skeletal Mesh try_Plane_002...
+[2018.09.06-01.54.33:251][193]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/try.try_Plane_002
+[2018.09.06-01.54.33:255][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_002_Skeleton'
+[2018.09.06-01.54.33:255][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_002_Skeleton'
+[2018.09.06-01.54.33:265][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_002_PhysicsAsset'
+[2018.09.06-01.54.33:265][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_002_PhysicsAsset'
+[2018.09.06-01.54.33:290][193]LogSkeletalMesh: Building Skeletal Mesh try_Plane_002...
+[2018.09.06-01.54.33:316][193]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/try.try_Plane_002
+[2018.09.06-01.54.33:321][193]LogMaterial: Warning: Material /Game/Material_002.Material_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.09.06-01.54.33:326][193]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2018.09.06-01.54.33:368][193]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2018.09.06-01.54.33:397][193]LogFbx: Triangulating skeletal mesh Plane.001
+[2018.09.06-01.54.33:397][193]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.09.06-01.54.33:409][193]LogSkeletalMesh: Section 0: 4 vertices, 1 active bones
+[2018.09.06-01.54.33:409][193]LogSkeletalMesh: Section 0: Material=0, 2 triangles
+[2018.09.06-01.54.33:415][193]LogSkeletalMesh: Building Skeletal Mesh try_Plane_001...
+[2018.09.06-01.54.33:415][193]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/try.try_Plane_001
+[2018.09.06-01.54.33:415][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_001_Skeleton'
+[2018.09.06-01.54.33:415][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_001_Skeleton'
+[2018.09.06-01.54.33:418][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_001_PhysicsAsset'
+[2018.09.06-01.54.33:418][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_001_PhysicsAsset'
+[2018.09.06-01.54.33:421][193]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.09.06-01.54.33:424][193]LogSkeletalMesh: Building Skeletal Mesh try_Plane_001...
+[2018.09.06-01.54.33:424][193]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/try.try_Plane_001
+[2018.09.06-01.54.33:426][193]LogFbx: Triangulating skeletal mesh Plane
+[2018.09.06-01.54.33:751][193]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.09.06-01.54.34:806][193]LogSkeletalMesh: Section 0: 14884 vertices, 1 active bones
+[2018.09.06-01.54.34:840][193]LogSkeletalMesh: Section 0: Material=0, 29282 triangles
+[2018.09.06-01.54.34:841][193]LogSkeletalMesh: Building Skeletal Mesh try_Plane...
+[2018.09.06-01.54.34:993][193]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/try.try_Plane
+[2018.09.06-01.54.35:036][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_Skeleton'
+[2018.09.06-01.54.35:036][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_Skeleton'
+[2018.09.06-01.54.35:038][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_PhysicsAsset'
+[2018.09.06-01.54.35:038][193]LogLinker: No puede encontrar el archivo '/Game/try_Plane_PhysicsAsset'
+[2018.09.06-01.54.35:077][193]LogSkeletalMesh: Building Skeletal Mesh try_Plane...
+[2018.09.06-01.54.35:164][193]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/try.try_Plane
+[2018.09.06-01.54.35:241][193]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.06-01.54.35:241][193]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2018.09.06-01.54.35:241][193]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2018.09.06-01.54.35:241][193]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2018.09.06-01.54.35:263][193]LogSkeletalMesh: Building Skeletal Mesh try_Plane...
+[2018.09.06-01.54.35:373][193]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/try.try_Plane
+[2018.09.06-01.54.36:844][195]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.09.06-01.54.37:330][196]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.06-01.54.39:140][208]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.06-01.54.41:641][244]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.06-01.54.43:393][249]LogSlate: Window 'Registro del mensaje' being destroyed
+[2018.09.06-01.54.43:404][249]LogSlate: Window 'Registro del mensaje' being destroyed
+[2018.09.06-01.54.43:417][250]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.06-01.54.45:395][296]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.06-01.54.47:867][321]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.06-01.54.52:308][355]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.06-01.54.54:736][409]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.06-01.55.02:477][568]Cmd: TRANSACTION UNDO
+[2018.09.06-01.55.02:477][568]LogEditorTransaction: Undo Crear actores
+[2018.09.06-01.55.03:795][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.55.03:860][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-01.55.03:888][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-01.55.03:907][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-01.55.03:944][650]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 15:55:03)
+[2018.09.06-01.55.03:945][650]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-01.55.03:983][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038830s)
+[2018.09.06-01.55.03:994][650]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-01.55.03:995][650]LogPlayLevel: PIE: World Init took: (0.001885s)
+[2018.09.06-01.55.03:995][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.050500s)
+[2018.09.06-01.55.04:042][650]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-01.55.04:052][650]LogInit: FAudioDevice initialized.
+[2018.09.06-01.55.04:122][650]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-01.55.04:122][650]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-01.55.04:142][650]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-20.55.04
+[2018.09.06-01.55.04:143][650]LogWorld: Bringing up level for play took: 0.008578
+[2018.09.06-01.55.04:224][650]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 10 classes and 0 folders.
+[2018.09.06-01.55.04:230][650]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.17
+[2018.09.06-01.55.04:231][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-01.55.21:674][935]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-01.55.21:675][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-01.55.21:735][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-01.55.21:735][935]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-01.55.21:768][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-01.55.21:784][936]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.09.06-01.55.26:981][146]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.09.06-01.55.32:595][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.55.38:118][596]Cmd: TRANSACTION UNDO
+[2018.09.06-01.55.38:118][596]LogEditorTransaction: Undo Select Brush Surface
+[2018.09.06-01.55.38:631][615]Cmd: TRANSACTION UNDO
+[2018.09.06-01.55.38:631][615]LogEditorTransaction: Undo Select Brush Surface
+[2018.09.06-01.55.42:911][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.55.46:073][857]Cmd: TRANSACTION UNDO
+[2018.09.06-01.55.46:074][857]LogEditorTransaction: Undo Crear actores
+[2018.09.06-01.55.47:348][910]Cmd: TRANSACTION UNDO
+[2018.09.06-01.55.47:348][910]LogEditorTransaction: Undo Pinchar en los actores
+[2018.09.06-01.55.52:853][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.55.59:375][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.56.03:955][385]Cmd: TRANSACTION UNDO
+[2018.09.06-01.56.03:955][385]LogEditorTransaction: Undo Crear actores
+[2018.09.06-01.56.05:404][422]Cmd: TRANSACTION UNDO
+[2018.09.06-01.56.05:404][422]LogEditorTransaction: Undo Crear actores
+[2018.09.06-01.56.06:973][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.56.10:492][606]Cmd: TRANSACTION UNDO
+[2018.09.06-01.56.10:492][606]LogEditorTransaction: Undo Crear actores
+[2018.09.06-01.56.11:803][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.56.14:251][720]Cmd: TRANSACTION UNDO
+[2018.09.06-01.56.14:252][720]LogEditorTransaction: Undo Crear actores
+[2018.09.06-01.56.14:814][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.56.16:193][772]Cmd: TRANSACTION UNDO
+[2018.09.06-01.56.16:193][772]LogEditorTransaction: Undo Crear actores
+[2018.09.06-01.56.16:746][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.56.18:243][829]Cmd: TRANSACTION UNDO
+[2018.09.06-01.56.18:243][829]LogEditorTransaction: Undo Crear actores
+[2018.09.06-01.56.19:405][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.56.24:784][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.56.24:849][930]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-01.56.24:876][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-01.56.24:876][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-01.56.24:876][930]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 15:56:24)
+[2018.09.06-01.56.24:876][930]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-01.56.24:901][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024777s)
+[2018.09.06-01.56.24:902][930]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-01.56.24:903][930]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2018.09.06-01.56.24:903][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.026533s)
+[2018.09.06-01.56.24:937][930]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-01.56.24:951][930]LogInit: FAudioDevice initialized.
+[2018.09.06-01.56.24:995][930]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-01.56.24:995][930]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-01.56.24:998][930]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-20.56.24
+[2018.09.06-01.56.24:998][930]LogWorld: Bringing up level for play took: 0.002998
+[2018.09.06-01.56.25:012][930]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.612
+[2018.09.06-01.56.25:013][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-01.56.44:901][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-01.56.44:901][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-01.56.44:961][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-01.56.44:961][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-01.56.44:984][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-01.56.45:006][587]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.06-01.56.47:736][652]Cmd: TRANSACTION UNDO
+[2018.09.06-01.56.47:736][652]LogEditorTransaction: Undo Crear actores
+[2018.09.06-02.04.52:998][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/StartupMap_Auto1F0251A434792FBF87ED8999F898382D7.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto1.umap'
+[2018.09.06-02.04.53:002][151]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.537
+[2018.09.06-02.04.53:002][151]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.537
+[2018.09.06-02.04.53:005][151]OBJ SavePackage: Generating thumbnails for [3] asset(s) in package [/Game/try] ([3] browsable assets)...
+[2018.09.06-02.04.53:043][151]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/try.try_Plane_002]
+[2018.09.06-02.04.53:074][151]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/try.try_Plane_001]
+[2018.09.06-02.04.53:108][151]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/try.try_Plane]
+[2018.09.06-02.04.53:108][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/try]
+[2018.09.06-02.04.53:108][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/try" FILE="E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.09.06-02.04.53:183][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/try_Auto1A3B5274A4906A57CE84726A4384CEF7F.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Auto1.uasset'
+[2018.09.06-02.04.53:184][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material_003] ([1] browsable assets)...
+[2018.09.06-02.04.53:225][151]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material_003.Material_003]
+[2018.09.06-02.04.53:225][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material_003]
+[2018.09.06-02.04.53:239][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Material_003_Auto1CBC2EB78400A83392D3DB889271E4C7B.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/Material_003_Auto1.uasset'
+[2018.09.06-02.04.53:250][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/try_Plane_002_Skeleton] ([1] browsable assets)...
+[2018.09.06-02.04.53:250][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/try_Plane_002_Skeleton]
+[2018.09.06-02.04.53:252][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/try_Plane_002_Skeleton_Auto1D31C7B0144FB1069DA518898C6FD8912.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Plane_002_Skeleton_Auto1.uasset'
+[2018.09.06-02.04.53:253][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/try_Plane_002_PhysicsAsset] ([1] browsable assets)...
+[2018.09.06-02.04.53:287][151]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/try_Plane_002_PhysicsAsset.try_Plane_002_PhysicsAsset]
+[2018.09.06-02.04.53:287][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/try_Plane_002_PhysicsAsset]
+[2018.09.06-02.04.53:297][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/try_Plane_002_PhysicsAsset_Auto14A77DA1D4A3E34AA10732088A543E27E.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Plane_002_PhysicsAsset_Auto1.uasset'
+[2018.09.06-02.04.53:298][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material_002] ([1] browsable assets)...
+[2018.09.06-02.04.53:332][151]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material_002.Material_002]
+[2018.09.06-02.04.53:332][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material_002]
+[2018.09.06-02.04.53:344][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Material_002_Auto10A32F8ED4819D3367697BE983A175316.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/Material_002_Auto1.uasset'
+[2018.09.06-02.04.53:345][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/try_Plane_001_Skeleton] ([1] browsable assets)...
+[2018.09.06-02.04.53:345][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/try_Plane_001_Skeleton]
+[2018.09.06-02.04.53:347][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/try_Plane_001_Skeleton_Auto1E69F8D8C4B60FC050A1126B6C684A5A6.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Plane_001_Skeleton_Auto1.uasset'
+[2018.09.06-02.04.53:348][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/try_Plane_001_PhysicsAsset] ([1] browsable assets)...
+[2018.09.06-02.04.53:380][151]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/try_Plane_001_PhysicsAsset.try_Plane_001_PhysicsAsset]
+[2018.09.06-02.04.53:380][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/try_Plane_001_PhysicsAsset]
+[2018.09.06-02.04.53:391][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/try_Plane_001_PhysicsAsset_Auto1732E8C9B4090FA173C16FAA9551FAD30.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Plane_001_PhysicsAsset_Auto1.uasset'
+[2018.09.06-02.04.53:392][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/try_Plane_Skeleton] ([1] browsable assets)...
+[2018.09.06-02.04.53:392][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/try_Plane_Skeleton]
+[2018.09.06-02.04.53:394][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/try_Plane_Skeleton_Auto1819BDF534E1759EEDB856AA216D0136A.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Plane_Skeleton_Auto1.uasset'
+[2018.09.06-02.04.53:395][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/try_Plane_PhysicsAsset] ([1] browsable assets)...
+[2018.09.06-02.04.53:428][151]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/try_Plane_PhysicsAsset.try_Plane_PhysicsAsset]
+[2018.09.06-02.04.53:428][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/try_Plane_PhysicsAsset]
+[2018.09.06-02.04.53:439][151]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/try_Plane_PhysicsAsset_Auto109D8D53149339C5B930BB0A81C4EB3DE.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Plane_PhysicsAsset_Auto1.uasset'
+[2018.09.06-02.04.53:440][151]LogFileHelpers: Auto-saving content packages took 0.436
+[2018.09.06-02.07.13:825][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.07.15:180][642]LogAssetEditorManager: Opening Asset editor for Material /Game/Material_003.Material_003
+[2018.09.06-02.07.15:221][642]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2018.09.06-02.07.15:821][642]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.09.06-02.07.15:889][642]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.06-02.07.15:987][642]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2018.09.06-02.07.15:998][642]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.06-02.07.15:998][642]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.06-02.07.16:400][642]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2018.09.06-02.07.16:533][642]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.06-02.07.17:026][642]LogSlate: Took 0.015425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.06-02.07.17:565][642]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.06-02.07.18:028][643]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.06-02.07.18:370][643]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.06-02.07.18:370][643]LogSlate: Took 0.028790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.06-02.07.18:669][643]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.06-02.07.18:936][645]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.06-02.07.18:936][645]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.06-02.07.19:324][646]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.06-02.07.19:324][646]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.06-02.07.19:547][647]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.06-02.07.19:547][647]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.06-02.07.19:547][647]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.06-02.07.20:011][648]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.06-02.07.20:331][649]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.06-02.07.20:451][651]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.06-02.07.20:932][653]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.06-02.07.21:397][657]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.06-02.07.21:462][658]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.06-02.07.22:091][660]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.06-02.07.22:186][662]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.06-02.07.22:386][665]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.06-02.07.22:663][668]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.06-02.07.22:898][668]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.06-02.07.22:898][668]LogSlate: Window 'Material_003*' being destroyed
+[2018.09.06-02.07.22:901][668]LogSlate: Window 'Material_003*' being destroyed
+[2018.09.06-02.07.23:384][668]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.06-02.07.23:384][668]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.06-02.07.23:384][668]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.06-02.07.23:384][668]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.06-02.07.23:384][668]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.06-02.07.23:403][668]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.06-02.07.23:527][668]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.06-02.07.23:578][668]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.06-02.07.23:925][675]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.06-02.07.24:210][676]LogAssetEditorManager: Opening Asset editor for Material /Game/Material_002.Material_002
+[2018.09.06-02.07.24:216][676]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2018.09.06-02.07.24:562][676]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.06-02.07.24:626][676]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.06-02.07.24:690][676]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.06-02.07.24:739][676]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2018.09.06-02.07.24:789][676]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2018.09.06-02.07.24:864][676]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.06-02.07.25:421][680]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.09.06-02.07.25:677][681]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.06-02.07.26:270][686]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.09.06-02.07.27:784][712]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.09.06-02.07.29:098][746]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.09.06-02.07.29:133][747]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.09.06-02.07.29:554][756]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.09.06-02.07.30:142][766]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.09.06-02.07.30:359][770]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.06-02.07.30:359][770]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.09.06-02.07.31:151][788]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.06-02.07.31:198][789]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.06-02.07.31:610][799]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.06-02.07.31:771][803]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.09.06-02.07.31:902][805]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.06-02.07.32:607][820]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.09.06-02.07.33:192][834]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.09.06-02.07.34:513][864]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.06-02.07.34:927][875]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.06-02.07.34:927][875]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.06-02.07.35:506][882]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.06-02.07.35:845][887]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.06-02.07.36:880][910]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.06-02.07.37:125][915]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.06-02.07.38:507][952]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.06-02.07.39:329][972]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.06-02.07.39:579][974]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.06-02.07.40:070][986]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.06-02.07.40:191][989]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.06-02.07.40:395][994]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.06-02.07.40:734][  0]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.06-02.07.40:865][  3]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.06-02.07.40:888][  4]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.06-02.07.41:238][ 10]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.06-02.07.41:238][ 10]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.06-02.07.41:238][ 10]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.06-02.07.41:990][ 29]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.06-02.07.42:525][ 36]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.06-02.07.43:067][ 48]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.06-02.07.43:591][ 60]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.06-02.07.44:110][ 70]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.06-02.07.44:710][ 81]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.06-02.07.45:480][101]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.06-02.07.45:671][105]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.06-02.07.46:226][116]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.06-02.07.46:569][119]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.06-02.07.47:156][131]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.06-02.07.47:394][135]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.06-02.07.47:482][137]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.06-02.07.47:981][147]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.06-02.07.48:075][149]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.06-02.07.48:201][152]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.06-02.07.48:495][156]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.06-02.07.48:495][156]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.06-02.07.48:626][160]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.06-02.07.49:069][169]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.06-02.07.49:958][184]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.06-02.07.49:978][185]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.06-02.07.50:680][200]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.06-02.07.51:610][223]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.06-02.07.52:275][234]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.06-02.07.52:275][234]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.06-02.07.53:010][254]LogSlate: Window 'Material_002*' being destroyed
+[2018.09.06-02.07.53:092][254]LogSlate: Window 'Material_002*' being destroyed
+[2018.09.06-02.07.53:314][254]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.06-02.07.53:563][260]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.06-02.07.54:624][274]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.06-02.07.54:669][275]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.06-02.07.55:602][288]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.06-02.07.56:301][297]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.06-02.07.56:641][301]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.06-02.07.56:896][305]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.06-02.07.57:188][310]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.06-02.07.57:465][311]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.06-02.07.57:711][316]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.06-02.07.57:720][316]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.06-02.07.58:329][324]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.06-02.07.59:031][329]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.06-02.07.59:252][333]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.06-02.07.59:263][333]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.06-02.08.00:505][348]LogAssetEditorManager: Opening Asset editor for Material /Game/Material_003.Material_003
+[2018.09.06-02.08.00:513][348]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.06-02.08.00:635][348]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.06-02.08.00:635][348]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.06-02.08.00:882][348]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.06-02.08.00:882][348]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.06-02.08.00:972][348]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.06-02.08.01:333][348]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.06-02.08.01:393][348]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.06-02.08.01:393][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.06-02.08.01:453][348]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.06-02.08.01:850][348]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.06-02.08.02:149][352]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.06-02.08.02:156][352]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.06-02.08.02:274][353]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.06-02.08.02:792][359]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.06-02.08.03:238][361]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.06-02.08.03:238][361]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.06-02.08.03:402][366]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.06-02.08.03:788][375]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.06-02.08.03:885][377]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.06-02.08.03:912][378]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.06-02.08.04:825][395]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.06-02.08.05:151][401]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.06-02.08.05:316][405]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.06-02.08.06:282][424]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.06-02.08.06:582][432]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.06-02.08.07:257][445]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.06-02.08.07:462][450]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.06-02.08.08:143][463]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.06-02.08.08:652][472]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.06-02.08.09:232][483]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.06-02.08.10:127][500]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.06-02.08.10:248][503]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.06-02.08.10:394][506]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.06-02.08.11:059][521]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.06-02.08.11:059][521]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.06-02.08.11:310][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.08.11:382][529]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.06-02.08.11:592][533]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.06-02.08.11:848][537]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.06-02.08.11:916][538]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.06-02.08.12:058][541]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.06-02.08.12:802][554]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.06-02.08.13:040][558]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.06-02.08.14:048][576]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.06-02.08.14:086][577]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.06-02.08.14:187][579]LogSlate: Window 'Material_003*' being destroyed
+[2018.09.06-02.08.14:199][579]LogSlate: Window 'Material_003*' being destroyed
+[2018.09.06-02.08.14:571][579]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.06-02.08.14:571][579]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.06-02.08.15:385][603]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.06-02.08.15:385][603]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.06-02.08.15:841][621]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.06-02.08.17:428][687]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.06-02.08.17:859][695]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.06-02.08.18:098][696]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.06-02.08.18:367][699]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.06-02.08.18:828][707]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.06-02.08.18:828][707]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.06-02.08.19:367][712]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.06-02.08.19:367][712]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.06-02.08.19:367][712]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.06-02.08.20:072][720]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.06-02.08.20:714][727]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.06-02.08.20:988][731]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.06-02.08.21:577][740]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.06-02.08.22:188][747]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.06-02.08.22:581][752]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.06-02.08.23:218][780]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.06-02.08.23:485][792]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.06-02.08.24:124][811]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.06-02.08.24:768][839]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.06-02.08.25:307][848]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.06-02.10.42:458][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.14.47:794][857]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.06-02.14.48:576][857]LogSkeletalMesh: Building Skeletal Mesh try_Plane...
+[2018.09.06-02.14.48:617][857]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/try.try_Plane
+[2018.09.06-02.14.48:621][857]LogSkeletalMesh: Building Skeletal Mesh try_Plane...
+[2018.09.06-02.14.48:657][857]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/try.try_Plane
+[2018.09.06-02.14.48:669][857]LogSkeletalMesh: Building Skeletal Mesh try_Plane_001...
+[2018.09.06-02.14.48:669][857]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/try.try_Plane_001
+[2018.09.06-02.14.48:672][857]LogSkeletalMesh: Building Skeletal Mesh try_Plane_001...
+[2018.09.06-02.14.48:672][857]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/try.try_Plane_001
+[2018.09.06-02.14.48:673][857]LogSkeletalMesh: Building Skeletal Mesh try_Plane_002...
+[2018.09.06-02.14.48:694][857]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/try.try_Plane_002
+[2018.09.06-02.14.48:699][857]LogSkeletalMesh: Building Skeletal Mesh try_Plane_002...
+[2018.09.06-02.14.48:720][857]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/try.try_Plane_002
+[2018.09.06-02.14.53:340][901]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.06-02.15.27:918][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.15.31:140][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.15.31:390][336]LogActorFactory: Actor Factory created Cube
+[2018.09.06-02.15.31:426][336]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.09.06-02.15.31:487][336]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.06-02.15.31:488][336]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.06-02.15.31:488][336]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.06-02.15.32:296][365]LogActorFactory: Actor Factory created Cube
+[2018.09.06-02.15.36:102][413]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.06-02.15.38:565][422]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.06-02.15.38:593][423]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.06-02.15.39:099][426]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.06-02.15.58:785][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.16.03:966][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.16.04:104][947]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/StartupMap_Auto2B8C779D847D887A092EBC6A21820EB62.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto2.umap'
+[2018.09.06-02.16.04:106][947]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.118
+[2018.09.06-02.16.04:106][947]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.118
+[2018.09.06-02.16.04:108][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/try" FILE="E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.09.06-02.16.04:111][947]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/try_Auto247251B254CAD3CBEDF7872A1730F9CA0.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/try_Auto2.uasset'
+[2018.09.06-02.16.04:111][947]LogFileHelpers: Auto-saving content packages took 0.004
+[2018.09.06-02.16.06:549][ 45]Cmd: TRANSACTION UNDO
+[2018.09.06-02.16.06:550][ 45]LogEditorTransaction: Undo Move Actors
+[2018.09.06-02.16.08:234][106]Cmd: TRANSACTION UNDO
+[2018.09.06-02.16.08:234][106]LogEditorTransaction: Undo Move Actors
+[2018.09.06-02.16.09:132][142]Cmd: TRANSACTION UNDO
+[2018.09.06-02.16.09:132][142]LogEditorTransaction: Undo Move Actors
+[2018.09.06-02.16.35:868][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.16.55:957][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.06-02.17.06:820][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.17.23:756][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.18.40:032][967]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2018.09.06-02.18.40:034][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.18.51:633][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.06-02.18.52:575][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.18.53:389][378]LogEditorViewport: Clicking Background
+[2018.09.06-02.18.54:039][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.06-02.19.07:033][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.19.36:948][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.06-02.19.38:979][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.06-02.20.34:312][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.21.27:872][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.21.50:597][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.21.57:878][506]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2018.09.06-02.21.57:913][506]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.06-02.21.57:913][506]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.06-02.21.57:913][506]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.06-02.21.57:919][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.22.04:162][598]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.06-02.22.40:412][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.26.04:546][214]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/StartupMap_Auto358F0096045C9069602063E98C4AB0964.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto3.umap'
+[2018.09.06-02.26.04:565][214]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.174
+[2018.09.06-02.26.04:565][214]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.174
+[2018.09.06-02.31.27:852][191]LogEditorViewport: Clicking Background
+[2018.09.06-02.31.29:833][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.31.30:048][268]LogActorFactory: Actor Factory created Plane
+[2018.09.06-02.31.31:864][331]LogActorFactory: Actor Factory created Plane
+[2018.09.06-02.31.42:687][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.31.52:189][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.34.51:961][920]Cmd: TRANSACTION UNDO
+[2018.09.06-02.34.51:961][920]LogEditorTransaction: Undo Crear actores
+[2018.09.06-02.35.14:139][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.35.14:220][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-02.35.14:246][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.35.14:246][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-02.35.14:246][740]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 16:35:14)
+[2018.09.06-02.35.14:247][740]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-02.35.14:266][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018243s)
+[2018.09.06-02.35.14:267][740]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-02.35.14:268][740]LogPlayLevel: PIE: World Init took: (0.001945s)
+[2018.09.06-02.35.14:268][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.020625s)
+[2018.09.06-02.35.14:292][740]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-02.35.14:299][740]LogInit: FAudioDevice initialized.
+[2018.09.06-02.35.14:327][740]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-02.35.14:327][740]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-02.35.14:329][740]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-21.35.14
+[2018.09.06-02.35.14:330][740]LogWorld: Bringing up level for play took: 0.002399
+[2018.09.06-02.35.14:347][740]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.071
+[2018.09.06-02.35.14:347][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.35.25:445][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.35.25:445][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.35.25:490][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-02.35.25:490][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.35.25:510][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.35.25:565][362]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.06-02.35.27:569][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.36.16:522][517]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.09.06-02.36.21:807][731]Cmd: TRANSACTION UNDO
+[2018.09.06-02.36.21:807][731]LogEditorTransaction: Undo Move Actors
+[2018.09.06-02.36.29:678][ 61]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.09.06-02.36.33:964][245]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.36.35:756][323]LogEditorViewport: Clicking Background
+[2018.09.06-02.36.37:111][385]LogEditorViewport: Clicking Background
+[2018.09.06-02.36.37:496][402]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.09.06-02.36.39:320][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.37.01:001][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.06-02.37.16:558][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GenericHMD)
+[2018.09.06-02.37.29:443][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.38.16:598][631]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/StartupMap_Auto49F0A83F6426193A96A7FB4887924A850.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto4.umap'
+[2018.09.06-02.38.16:600][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.128
+[2018.09.06-02.38.16:600][631]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.128
+[2018.09.06-02.38.39:289][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.38.50:059][893]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-02.38.50:080][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.38.50:081][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-02.38.50:081][893]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 16:38:50)
+[2018.09.06-02.38.50:081][893]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-02.38.50:102][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020267s)
+[2018.09.06-02.38.50:103][893]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-02.38.50:104][893]LogPlayLevel: PIE: World Init took: (0.001996s)
+[2018.09.06-02.38.50:104][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.022611s)
+[2018.09.06-02.38.50:127][893]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-02.38.50:133][893]LogInit: FAudioDevice initialized.
+[2018.09.06-02.38.50:161][893]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-02.38.50:161][893]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-02.38.50:163][893]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-21.38.50
+[2018.09.06-02.38.50:164][893]LogWorld: Bringing up level for play took: 0.002699
+[2018.09.06-02.38.50:176][893]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.243
+[2018.09.06-02.38.50:176][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.38.57:253][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.38.57:254][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.38.57:292][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-02.38.57:292][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.38.57:312][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.38.57:354][399]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.06-02.38.58:125][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.39.27:028][816]LogEditorViewport: Clicking Background
+[2018.09.06-02.39.36:224][922]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.39.39:451][ 73]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.09.06-02.39.39:483][ 73]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.06-02.39.39:483][ 73]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.09.06-02.39.39:517][ 73]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.06-02.39.39:526][ 73]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.09.06-02.39.39:556][ 73]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.06-02.39.39:556][ 73]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.09.06-02.39.39:580][ 73]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.09.06-02.39.39:593][ 73]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.09.06-02.39.39:620][ 73]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.06-02.39.39:629][ 73]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.06-02.39.39:637][ 73]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.06-02.39.39:771][ 73]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.09.06-02.39.39:784][ 73]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.09.06-02.39.40:018][ 73]LogMaterial: Display: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2018.09.06-02.39.40:433][ 73]LogMaterial: Display: Missing cached shader map for material MirrorPlaneMaterial, compiling. 
+[2018.09.06-02.39.40:612][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.40:629][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.40:646][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.40:906][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.40:956][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.40:972][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.41:005][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.41:022][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.41:132][ 73]LogShaderCompilers: Display: Shaders left to compile 257
+[2018.09.06-02.39.41:132][ 73]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.09.06-02.39.41:144][ 73]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.09.06-02.39.41:266][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.41:280][ 73]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.09.06-02.39.41:485][ 73]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.06-02.39.41:497][ 73]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.09.06-02.39.43:122][ 73]LogShaderCompilers: Display: Shaders left to compile 320
+[2018.09.06-02.39.43:142][ 73]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.09.06-02.39.44:343][ 74]LogShaderCompilers: Display: Shaders left to compile 330
+[2018.09.06-02.39.45:406][103]LogShaderCompilers: Display: Shaders left to compile 320
+[2018.09.06-02.39.47:824][154]LogShaderCompilers: Display: Shaders left to compile 310
+[2018.09.06-02.39.50:079][194]LogShaderCompilers: Display: Shaders left to compile 300
+[2018.09.06-02.39.50:328][201]LogShaderCompilers: Display: Shaders left to compile 290
+[2018.09.06-02.39.53:662][254]LogShaderCompilers: Display: Shaders left to compile 280
+[2018.09.06-02.39.58:276][400]LogShaderCompilers: Display: Shaders left to compile 270
+[2018.09.06-02.39.59:473][408]LogShaderCompilers: Display: Shaders left to compile 260
+[2018.09.06-02.40.01:743][412]LogShaderCompilers: Display: Shaders left to compile 250
+[2018.09.06-02.40.06:907][412]LogShaderCompilers: Display: Shaders left to compile 240
+[2018.09.06-02.40.06:907][412]LogShaderCompilers: Display: Shaders left to compile 230
+[2018.09.06-02.40.06:907][412]LogShaderCompilers: Display: Shaders left to compile 220
+[2018.09.06-02.40.06:907][412]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.09.06-02.40.06:907][412]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.09.06-02.40.06:907][412]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.09.06-02.40.06:907][412]LogSlate: Window 'Tutoriales' being destroyed
+[2018.09.06-02.40.14:754][638]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.09.06-02.40.16:676][703]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.09.06-02.40.17:705][714]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.09.06-02.40.22:651][877]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.09.06-02.40.27:972][990]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.09.06-02.40.30:210][ 39]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.09.06-02.40.30:506][ 47]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.09.06-02.40.33:247][ 93]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.09.06-02.40.37:046][153]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.09.06-02.40.37:047][153]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.09.06-02.40.41:704][284]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.06-02.40.48:257][491]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.06-02.40.49:259][517]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.06-02.40.51:072][556]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.06-02.40.57:064][689]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.06-02.40.57:346][700]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.06-02.40.58:460][718]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.06-02.40.59:464][732]LogSlate: Window 'Tutoriales' being destroyed
+[2018.09.06-02.40.59:502][732]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.40.59:511][732]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.40.59:512][732]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.40.59:512][732]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.01:114][759]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.01:114][759]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.01:115][759]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.01:115][759]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.03:410][834]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.06-02.41.03:511][837]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.03:511][837]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.03:512][837]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.03:512][837]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.06:484][913]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.06:484][913]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.06:484][913]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.06:484][913]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.07:261][938]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.07:261][938]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.07:261][938]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.07:261][938]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.07:744][955]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.07:744][955]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.07:744][955]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.07:744][955]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.08:287][973]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.08:287][973]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.08:287][973]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.08:287][973]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.08:892][992]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.08:892][992]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.08:892][992]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.08:892][992]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.09:362][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.09:362][  8]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.09:363][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.09:363][  8]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.15:763][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.15:763][256]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.15:763][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.15:763][256]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.16:689][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.16:689][294]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.16:689][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.16:689][294]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.17:374][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.17:374][322]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.17:374][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.17:374][322]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.20:519][451]LogSlate: Window 'Tutoriales' being destroyed
+[2018.09.06-02.41.22:462][529]LogSlate: Window 'Tutoriales' being destroyed
+[2018.09.06-02.41.22:468][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.22:469][529]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.22:469][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.22:469][529]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.23:323][564]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.23:324][564]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.23:324][564]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode'!
+[2018.09.06-02.41.23:324][564]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] No Landscape for you
+[2018.09.06-02.41.35:371][ 34]LogSlate: Window 'Tutoriales' being destroyed
+[2018.09.06-02.41.35:400][ 34]LogSlate: Window 'Tutoriales' being destroyed
+[2018.09.06-02.41.42:154][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.41.46:220][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.41.46:312][523]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2018.09.06-02.41.55:387][851]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.09.06-02.41.55:400][851]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.09.06-02.41.55:415][851]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.09.06-02.41.55:428][851]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.09.06-02.41.55:440][851]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.09.06-02.41.55:454][851]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.09.06-02.41.55:466][851]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.09.06-02.41.55:478][851]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.09.06-02.41.55:491][851]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.09.06-02.41.55:504][851]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.09.06-02.41.55:517][851]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.09.06-02.41.55:530][851]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.09.06-02.41.55:542][851]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.09.06-02.41.55:554][851]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.09.06-02.41.55:566][851]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.09.06-02.41.55:579][851]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.09.06-02.41.55:591][851]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.06-02.42.10:884][851]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.06-02.42.10:885][851]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.06-02.42.18:153][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.42.37:085][409]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2018.09.06-02.42.37:305][409]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.06-02.42.37:305][409]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.06-02.42.37:305][409]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.06-02.42.41:616][432]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.06-02.42.44:015][443]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.06-02.42.45:114][450]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.06-02.42.49:788][510]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-02.42.49:873][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.42.49:873][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-02.42.49:874][510]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 16:42:49)
+[2018.09.06-02.42.49:874][510]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-02.42.50:116][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.242547s)
+[2018.09.06-02.42.50:117][510]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-02.42.50:117][510]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2018.09.06-02.42.50:117][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.243776s)
+[2018.09.06-02.42.50:169][510]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-02.42.50:178][510]LogInit: FAudioDevice initialized.
+[2018.09.06-02.42.50:213][510]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-02.42.50:213][510]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-02.42.50:321][510]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-21.42.50
+[2018.09.06-02.42.50:322][510]LogWorld: Bringing up level for play took: 0.108389
+[2018.09.06-02.42.50:341][510]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.08
+[2018.09.06-02.42.50:341][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.43.03:628][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.43.03:628][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.43.03:722][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-02.43.03:722][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.43.03:752][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.43.03:772][928]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.09.06-02.43.05:077][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.43.10:269][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.06-02.43.10:292][110]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2018.09.06-02.43.20:162][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.43.34:776][759]Cmd: TRANSACTION UNDO
+[2018.09.06-02.43.34:776][759]LogEditorTransaction: Undo Move Actors
+[2018.09.06-02.43.37:571][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.43.42:092][958]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-02.43.42:121][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.43.42:121][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-02.43.42:121][958]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 16:43:42)
+[2018.09.06-02.43.42:122][958]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-02.43.42:270][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148095s)
+[2018.09.06-02.43.42:271][958]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-02.43.42:271][958]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2018.09.06-02.43.42:271][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.149266s)
+[2018.09.06-02.43.42:296][958]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-02.43.42:301][958]LogInit: FAudioDevice initialized.
+[2018.09.06-02.43.42:332][958]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-02.43.42:332][958]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-02.43.42:387][958]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-21.43.42
+[2018.09.06-02.43.42:388][958]LogWorld: Bringing up level for play took: 0.056138
+[2018.09.06-02.43.42:400][958]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.021
+[2018.09.06-02.43.42:400][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.43.52:244][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.43.52:245][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.43.52:320][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-02.43.52:320][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.43.52:350][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.43.52:369][329]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.09.06-02.44.03:855][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.45.34:300][306]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object Ninguno.'
+[2018.09.06-02.45.34:300][306]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object Ninguno.'
+[2018.09.06-02.45.34:333][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.45.37:116][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.45.37:121][382]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap
+[2018.09.06-02.45.38:686][382]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0025 seconds. Added 116 classes and 0 folders.
+[2018.09.06-02.45.51:239][687]LogSlate: Window 'StartupMap* - Editor del Blueprint del nivel' being destroyed
+[2018.09.06-02.45.51:273][687]LogSlate: Window 'StartupMap* - Editor del Blueprint del nivel' being destroyed
+[2018.09.06-02.45.54:746][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.46.16:096][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.46.33:786][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.46.33:863][106]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-02.46.33:891][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.46.33:891][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-02.46.33:892][106]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 16:46:33)
+[2018.09.06-02.46.33:892][106]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-02.46.34:037][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144779s)
+[2018.09.06-02.46.34:038][106]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-02.46.34:038][106]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2018.09.06-02.46.34:038][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.145941s)
+[2018.09.06-02.46.34:072][106]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-02.46.34:078][106]LogInit: FAudioDevice initialized.
+[2018.09.06-02.46.34:108][106]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-02.46.34:108][106]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-02.46.34:144][106]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-21.46.34
+[2018.09.06-02.46.34:145][106]LogWorld: Bringing up level for play took: 0.036870
+[2018.09.06-02.46.34:157][106]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.265
+[2018.09.06-02.46.34:157][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.46.43:967][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.46.43:968][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.46.44:039][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-02.46.44:039][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.46.44:073][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.46.44:092][467]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.09.06-02.46.45:561][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.46.47:102][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.46.59:829][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.46.59:853][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.46.59:872][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.46.59:879][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.09:816][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.47.09:855][588]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-02.47.09:871][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.47.09:871][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-02.47.09:872][588]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 16:47:09)
+[2018.09.06-02.47.09:872][588]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-02.47.10:028][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155967s)
+[2018.09.06-02.47.10:029][588]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-02.47.10:029][588]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2018.09.06-02.47.10:029][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.157222s)
+[2018.09.06-02.47.10:059][588]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-02.47.10:065][588]LogInit: FAudioDevice initialized.
+[2018.09.06-02.47.10:091][588]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-02.47.10:091][588]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-02.47.10:120][588]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-21.47.10
+[2018.09.06-02.47.10:121][588]LogWorld: Bringing up level for play took: 0.029659
+[2018.09.06-02.47.10:132][588]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.29
+[2018.09.06-02.47.10:133][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.47.19:600][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.47.19:600][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.19:707][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-02.47.19:707][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-02.47.19:743][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.19:763][885]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.09.06-02.47.24:239][992]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.47.26:563][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.26:577][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.26:585][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.26:592][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.31:414][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.31:421][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.31:440][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.31:446][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.34:279][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.34:286][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.34:294][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.34:301][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.47.42:567][420]LogRenderer: Reallocating scene render targets to support 1340x708 Format 26 NumSamples 1 (Frame:45299).
+[2018.09.06-02.47.42:891][420]LogRenderer: Reallocating scene render targets to support 1368x728 Format 26 NumSamples 1 (Frame:45301).
+[2018.09.06-02.48.05:177][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.48.12:015][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.48.50:774][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.49.45:773][641]Cmd: TRANSACTION UNDO
+[2018.09.06-02.49.45:773][641]LogEditorTransaction: Undo Move Actors
+[2018.09.06-02.49.57:891][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.50.25:007][521]LogSlate: Window 'Mensaje' being destroyed
+[2018.09.06-02.50.59:449][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.51.00:537][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.51.01:356][589]LogEditorViewport: Clicking Background
+[2018.09.06-02.51.33:410][873]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.09.06-02.51.33:428][873]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.09.06-02.51.33:437][873]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.09.06-02.51.33:448][873]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.09.06-02.51.35:572][873]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/StartupMap_Auto5E8DA10B54E98DAA667C764945AD5A1C1.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto5.umap'
+[2018.09.06-02.51.35:575][873]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 2.629
+[2018.09.06-02.51.35:575][873]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.629
+[2018.09.06-02.51.54:279][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.51.56:029][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.51.56:032][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.51.56:044][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.51.56:052][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.51.56:055][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.52.02:282][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.52.03:661][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.52.03:675][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.52.03:683][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.52.03:690][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-02.52.11:221][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.52.28:273][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.53.22:082][915]LogEditorViewport: Clicking Background
+[2018.09.06-02.53.33:774][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.54.29:638][148]LogSlate: Window 'Mensaje' being destroyed
+[2018.09.06-02.55.39:691][742]LogMeshMerging: Error: Material M_Basic_Floor is missing required Material Parameters DiffuseTexture, NormalTexture, PackedTexture, MetallicTexture, SpecularTexture, RoughnessTexture, EmissiveTexture, OpacityTexture, OpacityMaskTexture, AmbientOcclusionTexture, MetallicConst, SpecularConst, RoughnessConst, OpacityConst, OpacityMaskConst, AmbientOcclusionConst, EmissiveScale, DiffuseConst, EmissiveConst, UseDiffuse, PackMetallic, PackSpecular, PackRoughness, UseMetallic, UseSpecular, UseRoughness, UseEmissive, UseOpacity, UseOpacityMask, UseAmbientOcclusion, resetting to default.
+[2018.09.06-02.55.54:199][ 10]Cmd: TRANSACTION UNDO
+[2018.09.06-02.55.54:200][ 10]LogEditorTransaction: Undo Editar Override Base Material
+[2018.09.06-02.55.56:584][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-02.55.56:599][ 65]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.06-02.56.14:533][521]LogSlate: Window 'Seleccionador de color' being destroyed
+[2018.09.06-02.56.21:278][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.57.29:175][369]LogSlate: Window 'Seleccionador de color' being destroyed
+[2018.09.06-02.57.32:888][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.57.41:582][685]Cmd: TRANSACTION UNDO
+[2018.09.06-02.57.41:583][685]LogEditorTransaction: Undo Editar Color del entorno
+[2018.09.06-02.57.44:903][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-02.57.54:012][999]Cmd: TRANSACTION UNDO
+[2018.09.06-02.57.54:012][999]LogEditorTransaction: Undo Editar Color del entorno
+[2018.09.06-02.57.57:678][ 91]Cmd: TRANSACTION UNDO
+[2018.09.06-02.57.57:678][ 91]LogEditorTransaction: Undo Editar Color del entorno
+[2018.09.06-02.57.59:677][141]Cmd: TRANSACTION UNDO
+[2018.09.06-02.57.59:678][141]LogEditorTransaction: Undo Editar Color del entorno
+[2018.09.06-02.58.01:267][181]Cmd: TRANSACTION UNDO
+[2018.09.06-02.58.01:267][181]LogEditorTransaction: Undo Editar Color del entorno
+[2018.09.06-02.58.03:458][236]Cmd: TRANSACTION UNDO
+[2018.09.06-02.58.03:458][236]LogEditorTransaction: Undo Editar Color del entorno
+[2018.09.06-02.58.29:859][810]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/StartupMap306F97BF475287DFA29509800373277C.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2018.09.06-02.58.29:887][810]LogFileHelpers: Saving map 'StartupMap' took 3.538
+[2018.09.06-02.58.29:892][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/try" FILE="E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/try.uasset" SILENT=true
+[2018.09.06-02.58.29:894][810]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/try893A77CE4780546BDA9ACE9CD979DB7D.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/try.uasset'
+[2018.09.06-02.58.45:036][869]LogSlate: Window 'Mensaje' being destroyed
+[2018.09.06-02.59.25:680][909]LogEditorViewport: Clicking Background
+[2018.09.06-02.59.28:545][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.00.03:377][755]Cmd: TRANSACTION UNDO
+[2018.09.06-03.00.03:377][755]LogEditorTransaction: Undo Crear actores
+[2018.09.06-03.00.52:409][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.06.06:219][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.06.34:548][933]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.09.06-03.06.43:105][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.06.43:206][129]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.06.43:236][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.06.43:236][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-03.06.43:237][129]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 17:06:43)
+[2018.09.06-03.06.43:237][129]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-03.06.43:408][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171329s)
+[2018.09.06-03.06.43:409][129]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-03.06.43:409][129]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2018.09.06-03.06.43:410][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.172644s)
+[2018.09.06-03.06.43:449][129]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-03.06.43:455][129]LogInit: FAudioDevice initialized.
+[2018.09.06-03.06.43:481][129]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-03.06.43:481][129]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-03.06.43:516][129]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-22.06.43
+[2018.09.06-03.06.43:516][129]LogWorld: Bringing up level for play took: 0.035095
+[2018.09.06-03.06.43:528][129]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 1.097
+[2018.09.06-03.06.43:529][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.07.09:465][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.07.09:466][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.07.09:544][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-03.07.09:544][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.07.09:578][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.07.09:610][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.06-03.07.15:341][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.07.16:621][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.07.18:219][244]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/StartupMapC0559CF2466E862CBC99CC88E13F7426.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2018.09.06-03.07.18:237][244]LogFileHelpers: Saving map 'StartupMap' took 1.609
+[2018.09.06-03.12.24:196][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.12.31:055][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.13.02:704][ 65]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Universidad/octavo semestre/interacción humano computador/IHC/sonidos/barco_mar.wav)
+[2018.09.06-03.13.06:384][157]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object Ninguno.'
+[2018.09.06-03.13.06:385][157]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object Ninguno.'
+[2018.09.06-03.13.08:475][204]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap
+[2018.09.06-03.13.26:123][566]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/StartupMap24CA10AC4DD1382D0CD1E1ACA33CC423.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2018.09.06-03.13.26:142][566]LogFileHelpers: Saving map 'StartupMap' took 1.666
+[2018.09.06-03.13.27:196][593]LogSlate: Window 'StartupMap - Editor del Blueprint del nivel' being destroyed
+[2018.09.06-03.13.27:239][593]LogSlate: Window 'StartupMap - Editor del Blueprint del nivel' being destroyed
+[2018.09.06-03.13.30:857][683]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.13.30:881][683]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.13.30:881][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-03.13.30:899][683]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 17:13:30)
+[2018.09.06-03.13.30:900][683]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-03.13.31:049][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149503s)
+[2018.09.06-03.13.31:050][683]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-03.13.31:050][683]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2018.09.06-03.13.31:050][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.150492s)
+[2018.09.06-03.13.31:080][683]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-03.13.31:086][683]LogInit: FAudioDevice initialized.
+[2018.09.06-03.13.31:119][683]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-03.13.31:119][683]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-03.13.31:168][683]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-22.13.31
+[2018.09.06-03.13.31:169][683]LogWorld: Bringing up level for play took: 0.048875
+[2018.09.06-03.13.31:181][683]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.747
+[2018.09.06-03.13.31:181][683]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.13.31:196][683]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda barco_mar...
+[2018.09.06-03.13.31:204][683]LogTemp: Couldn't find amount to resample to.
+[2018.09.06-03.13.32:801][683]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 17113088 while cooking SoundWave /Game/barco_mar.barco_mar.
+[2018.09.06-03.14.32:221][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.14.32:221][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.14.32:306][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-03.14.32:306][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.14.32:340][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.14.32:378][746]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.06-03.14.36:245][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.16.20:588][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.16.20:668][288]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.16.20:693][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.16.20:693][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-03.16.20:693][288]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 17:16:20)
+[2018.09.06-03.16.20:694][288]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-03.16.20:865][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171654s)
+[2018.09.06-03.16.20:866][288]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-03.16.20:867][288]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2018.09.06-03.16.20:867][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.173104s)
+[2018.09.06-03.16.20:899][288]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-03.16.20:904][288]LogInit: FAudioDevice initialized.
+[2018.09.06-03.16.20:934][288]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-03.16.20:934][288]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-03.16.20:970][288]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-22.16.20
+[2018.09.06-03.16.20:970][288]LogWorld: Bringing up level for play took: 0.036082
+[2018.09.06-03.16.20:982][288]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.547
+[2018.09.06-03.16.20:983][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.17.11:192][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.17.11:193][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.17.11:254][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-03.17.11:254][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.17.11:286][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.17.11:325][181]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.09.06-03.17.12:551][212]LogEditorViewport: Clicking Background
+[2018.09.06-03.17.19:934][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.17.49:026][187]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.09.06-03.18.02:840][586]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.09.06-03.18.05:418][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.18.52:233][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.19.23:206][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.19.37:912][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.20.12:652][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.20.24:656][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.21.00:660][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.21.12:959][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.21.18:180][846]Cmd: TRANSACTION UNDO
+[2018.09.06-03.21.18:180][846]LogEditorTransaction: Undo Pinchar en los actores
+[2018.09.06-03.22.00:240][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.22.02:187][738]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.09.06-03.22.02:401][738]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.22.03:841][766]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.09.06-03.22.05:681][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.22.08:956][859]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.06-03.22.08:973][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.22.08:973][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.06-03.22.08:974][859]PIE: New page: Sesión PIE (reproducción en el editor): StartupMap (5/9/2018 17:22:08)
+[2018.09.06-03.22.08:974][859]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.09.06-03.22.09:129][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154712s)
+[2018.09.06-03.22.09:130][859]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.06-03.22.09:130][859]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2018.09.06-03.22.09:130][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.156089s)
+[2018.09.06-03.22.09:163][859]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.06-03.22.09:168][859]LogInit: FAudioDevice initialized.
+[2018.09.06-03.22.09:194][859]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2018.09.06-03.22.09:194][859]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-03.22.09:228][859]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.09.05-22.22.09
+[2018.09.06-03.22.09:229][859]LogWorld: Bringing up level for play took: 0.034182
+[2018.09.06-03.22.09:241][859]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.803
+[2018.09.06-03.22.09:242][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.22.31:288][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.22.31:290][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.22.31:381][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.06-03.22.31:381][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.09.06-03.22.31:416][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.22.31:444][521]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.06-03.22.34:603][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.22.43:937][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.22.43:942][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.22.43:962][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.22.43:969][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.06-03.22.46:934][ 54]LogEditorViewport: Clicking Background
+[2018.09.06-03.22.47:480][ 67]LogEditorViewport: Clicking Background
+[2018.09.06-03.23.31:117][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.24.30:695][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.25.17:372][516]LogEditorViewport: Clicking Background
+[2018.09.06-03.25.19:754][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-03.25.32:143][844]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/StartupMapE328C648441C1C80541227A60C5BDB8D.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2018.09.06-03.25.32:168][844]LogFileHelpers: Saving map 'StartupMap' took 1.679
+[2018.09.06-03.25.32:207][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/barco_mar" FILE="E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/barco_mar.uasset" SILENT=true
+[2018.09.06-03.25.32:257][844]LogSavePackage: Moving 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Saved/barco_mar03D2614746E281E466FE70A1FF833340.tmp' to 'E:/Universidad/octavo semestre/interacción humano computador/IHC/MyProject/Content/barco_mar.uasset'
+[2018.09.06-03.25.57:157][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.25.57:240][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.06-03.27.17:144][436]LogSlate: Window 'Diseñar y enviar' being destroyed
+[2018.09.06-03.27.17:185][436]LogSlate: Window 'Diseñar y enviar' being destroyed
+[2018.09.06-03.27.27:052][679]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.09.06-03.27.27:064][679]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_HandMat, compiling. 
+[2018.09.06-03.27.27:070][679]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.06-03.27.27:070][679]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.06-03.27.27:070][679]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GenericHMDMaterial, compiling. 
+[2018.09.06-03.27.27:087][679]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.09.06-03.27.27:095][679]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_BaseMaterial2, compiling. 
+[2018.09.06-03.27.27:102][679]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.06-03.27.27:102][679]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_ArcEndpoint, compiling. 
+[2018.09.06-03.27.27:109][679]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_ChaperoneOutline, compiling. 
+[2018.09.06-03.27.27:115][679]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2018.09.06-03.27.28:806][679]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.06-03.27.28:807][679]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.06-03.27.28:899][679]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.06-03.27.29:002][679]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.06-03.27.29:198][679]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.06-03.27.29:374][679]TextureStreamingBuild: Display: Compiling optional shaders took 2.332 seconds.
+[2018.09.06-03.27.29:464][679]LogLevel: Display: Export Material TexCoord Scales took 0.090 seconds.
+[2018.09.06-03.27.29:506][679]TextureStreamingBuild: Display: Build Texture Streaming took 0.041 seconds.
+[2018.09.06-03.27.29:543][680]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.06-03.27.29:543][680]MapCheck: New page: StartupMap - 5/9/2018 17:27:29
+[2018.09.06-03.27.29:550][680]MapCheck: Error: WorldSettings_1 Los mapas necesitan rediseñar la iluminación 
+[2018.09.06-03.27.29:876][680]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 333.105ms to complete.
+[2018.09.06-03.27.53:816][200]LogWindows: LaunchURL http://docs.unrealengine.com/latest/SPA/Shared/Editor/MapErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2018.09.06-03.27.59:990][251]LogSlate: Window 'Registro del mensaje' being destroyed
+[2018.09.06-03.28.00:034][251]LogSlate: Window 'Registro del mensaje' being destroyed
+[2018.09.06-03.28.04:647][365]MapCheck: New page: Revisión del mapa
+[2018.09.06-03.28.04:707][365]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.06-03.28.04:718][365]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.06-03.28.05:063][365]LightingResults: New page: Diseño de la iluminación - 5/9/2018 17:28:05
+[2018.09.06-03.28.06:424][365]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.06-03.28.06:591][365]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.06-03.28.07:077][365]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.06-03.28.09:580][365]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.09.06-03.28.09:752][365]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:8008
+
+Server stack trace: 
+   en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   en System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   en System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   en System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   en System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   en System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   en NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) en D:\Build\++UE4\Sync\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:línea 2811
+[2018.09.06-03.28.15:808][365]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.06-03.28.15:808][365]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4200
+[2018.09.06-03.28.21:750][365]LightingResults: Warning: No se ha encontrado ningún volumen relevante y la escena es tan larga que el volumen combinado automáticamente no dará buenos resultados. Por favor, añadir un volumen relevante de Lightmass delimitado estrechamente para optimizar los tiempos de diseño de la iluminación y calidad de su escena.
+[2018.09.06-03.28.21:762][365]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.06-03.28.21:762][365]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.06-03.28.21:762][365]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.06-03.28.21:762][365]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.06-03.28.21:762][365]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.06-03.28.22:720][365]LogEditorBuildUtils: Build time 0:18
+[2018.09.06-03.28.22:740][365]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.09.06-03.28.22:748][365]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.06-03.28.22:748][365]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.09.06-03.28.22:773][365]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.06-03.29.13:654][387]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BaseMaterial, compiling. 
+[2018.09.06-03.29.13:668][387]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BaseMaterial, compiling. 
+[2018.09.06-03.29.13:677][388]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.06-03.29.13:677][388]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.06-03.29.13:821][390]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.09.06-03.29.13:836][390]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.06-03.29.13:836][390]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.09.06-03.29.15:566][392]LogShaderCompilers: Display: Shaders left to compile 2
